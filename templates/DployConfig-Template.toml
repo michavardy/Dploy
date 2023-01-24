@@ -1,0 +1,20 @@
+[meta]
+name="author-name"
+email="author@email.com"
+git-remote="https://github.com/auther"
+social = ["https://linkedin.com/auther","https://author.git-pages.com"]
+
+[project.1]
+name="project-1-name"
+description="project-1-description"
+deployment.name="remote-deployment-1"
+deployment.client.name="ssh"
+deloyment.client.credentials.username=""
+deloyment.client.credentials.passphrase=""
+deployment.client.ip=""
+deployment.mapping={}
+interpreter.path=""
+interpreter.venvExist=false
+interpreter.venvPath=""
+logger.conf=""
+
